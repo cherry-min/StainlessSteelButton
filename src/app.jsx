@@ -24,11 +24,11 @@ function App() {
       <footer>
         Shiny Button &bull;{" "}
         <a
-          href="https://github.com/alexwidua/prototypes"
+          href="https://github.com/CherryNo1"
           target="_blank"
           rel="noopener"
         >
-          Github
+          CherryNo1
         </a>
       </footer>
     </>

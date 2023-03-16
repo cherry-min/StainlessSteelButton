@@ -1,8 +1,3 @@
-/**
- * MacOS SVG cursors by Rasmus Andersson
- * @url https://www.figma.com/community/file/768496560395567195
- */
-
 import React from "react";
 
 export default function CursorSVG() {
